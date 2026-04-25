@@ -10,4 +10,4 @@ This is known as our **B3SO** technology
 
 ---
 
-The entire software works on the user's local storage (Personal Device), using their resources. This method allows a system of privacy where the user does not have to worry about having their personal data files leaked. It is a simple yet secure system of data safety
+The entire software works on the user's local storage (Personal Device), using their resources. This method allows a system of privacy where the user does not have to worry about having their personal data files leaked. It is a simple yet secure system of data safety.
