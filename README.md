@@ -6,7 +6,7 @@
 - Sift
 - Organize
 
-This is known as our BS3O technology
+This is known as our **BS3O** technology
 
 ---
 
